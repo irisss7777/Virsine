@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 61ab2579c9f9fd74daeb30164a653e74
+timeCreated: 1553699791
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142854
+  packageName: Fork Loader Lowpoly
+  packageVersion: 2022
+  assetPath: Assets/Forkloader lowpoly/models/Materials/indicator.mat
+  uploadId: 723237

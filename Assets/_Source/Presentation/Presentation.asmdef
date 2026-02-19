@@ -1,0 +1,23 @@
+{
+    "name": "Presentation",
+    "rootNamespace": "",
+    "references": [
+        "GUID:00bd576710486e54098a6804bbaa56aa",
+        "GUID:b96f6c0820a959d418023f2b61cc153b",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:3aabfd52716fe4c469db2e9bb157a525",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:343deaaf83e0cee4ca978e7df0b80d21",
+        "GUID:51a2257cd01516a4fbe44011a9a0dba3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

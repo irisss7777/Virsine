@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f35537ae4704c828ca19867cd842875, type: 3}
+  m_Name: BoxConfig
+  m_EditorClassIdentifier: Infrastructure::Infrastructure.Repositories.Config.BoxConfig
+  _startPosition: {x: 9, y: 0, z: 2}
+  _groundLayer: 6
+  _spawnHeight: 10
+  _fallDuration: 5
+  _riseDuration: 5
+  _rotationDuration: 5
+  _attachOffset: {x: 0, y: 0.15, z: 0.03}
+  _boxPrefab: {fileID: 4826845391291819722, guid: a972f186ad26c6c46ad454b8db822273, type: 3}
